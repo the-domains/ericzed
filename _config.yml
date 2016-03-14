@@ -2,6 +2,7 @@ name: ericzed
 favicon: null
 layout_spectrum: 0.5306651466526091
 typography_spectrum: 0.7241848325356841
+title: lastname
 cta:
   domain: null
   bucket: null
